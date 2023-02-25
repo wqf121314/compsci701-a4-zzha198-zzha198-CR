@@ -1,2 +1,3 @@
-# compsci701-a4-zzha198-zzha198-CR
-compsci701-a4-zzha198-zzha198-CR
+# Assignment 4: Assessing Maintainability
+
+Follow the instructions on Canvas. **DO NOT** commit your code to the main branch!
